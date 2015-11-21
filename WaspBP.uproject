@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1C072B28-4BB8-C954-03F1-ACA13BB6C605}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "WaspBP",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
